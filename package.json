@@ -13,5 +13,8 @@
     "request": "latest",
     "sqlite3": "latest"
   },
-  "license": "0BSD"
+  "license": "0BSD",
+  "engines": {
+    "node": "16.x"
+  }
 }
